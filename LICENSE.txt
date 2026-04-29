@@ -1,0 +1,50 @@
+palette
+Proprietary Software License
+
+Copyright (c) 2026 Pigeon & Toast
+All rights reserved.
+
+This software and its associated source code, assets, documentation,
+and all related materials (collectively, "the Software") are the
+exclusive property of Pigeon & Toast, a sole proprietorship.
+
+RESTRICTIONS
+------------
+No part of the Software may be copied, modified, merged, published,
+distributed, sublicensed, sold, or used — in whole or in part — without
+the express prior written permission of Pigeon & Toast.
+
+Unauthorized use, reproduction, or distribution of the Software,
+or any portion of it, may result in civil and criminal penalties and
+will be prosecuted to the maximum extent possible under applicable law.
+
+PERMISSION
+----------
+Use of the Software by any individual, organization, or entity outside
+of Pigeon & Toast requires explicit written permission. Permission
+requests may be directed to the owner of Pigeon & Toast.
+
+Permission, if granted, is non-transferable and may be revoked at
+any time at the sole discretion of Pigeon & Toast.
+
+ACADEMIC CREDIT
+---------------
+The core technique implemented in this software — the repurposing of
+speaker/headphone drivers as microphone input devices via audio codec
+pin retasking — was originally demonstrated by researchers at Ben-Gurion
+University of the Negev in their 2016 paper:
+
+    "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit"
+    Mordechai Guri, Yosef Solewicz, Andrey Daidakulov, Yuval Elovici
+    Ben-Gurion University of the Negev, Beer-Sheva, Israel
+
+This software is an independent implementation inspired by that research.
+No affiliation with Ben-Gurion University or its researchers is claimed
+or implied.
+
+DISCLAIMER
+----------
+The Software is provided for authorized use only. Pigeon & Toast makes
+no warranties, express or implied, regarding the Software's fitness for
+any particular purpose. In no event shall Pigeon & Toast be liable for
+any damages arising from the use or inability to use the Software.
